@@ -1,0 +1,1 @@
+HTML practice projects created during my Full Stack Web Development learning journey. This repository includes hands-on exercises and small projects focused on HTML fundamentals, semantic structure, forms, links, images, and web page organization.
